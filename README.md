@@ -1,2 +1,2 @@
 # Portfolio
-holds the HTML and CSS files for my Portfolio
+holds the HTML file for my Portfolio
